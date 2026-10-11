@@ -1,4 +1,9 @@
 # vulcan-triangle-ai-test
+
+<p align="left">
+  <img src="img/triangle.jpg" alt="Vulkan triangle screenshot" />
+</p>
+
 QWEN 3 CODER NEXT + AIDER TEST.
 
 Прилагаются:
